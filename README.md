@@ -1,4 +1,4 @@
-# Aromatherapy – Landing Page
+ # Aromatherapy – Landing Page
 
 ## Overview
 This Solo Project was designed to showcase my experience as a Scrum Master by leading a simple project through the full Agile lifecycle - from planning to delivery.
@@ -17,8 +17,8 @@ The product is a fictional landing page for a wellness brand focused on essentia
 This is not a coded application, but an agile simulation.
 You can:
 - Read all documentation via the [Confluence Space: Aromatherapy - Landing Page](https://thaisinatomi.atlassian.net/wiki/spaces/sol/overview)
-- Explore the backlog and board in shared [Jira Project link](https://thaisinatomi.atlassian.net/jira/software/projects/SOL/boards/68/backlog?atlOrigin=eyJpIjoiZjYzOTMzZThkOTcyNGUwZTkwYmNjN2VjMTdlZDMwZjgiLCJwIjoiaiJ9)
-- To gain full access, please provide a valid email address that has access to Jira.
+- Explore the backlog and board in shared [Jira Project link](https://thaisinatomi.atlassian.net/jira/software/projects/SOL/boards/68/backlog?atlOrigin=eyJpIjoiZjYzOTMzZThkOTcyNGUwZTkwYmNjN2VjMTdlZDMwZjgiLCJwIjoiaiJ9) (screenshots included in Confluence)
+  - *Note: Jira links are restricted. To request full access, please provide a valid email with Atlassian access.
 
 ## Tools
 - Jira Software (Scrum board and backlog)
