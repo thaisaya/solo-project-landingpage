@@ -1,7 +1,7 @@
 # Aromatherapy – Landing Page
 
 ## Overview
-This Solo Project was created as part of the Chingu onboarding experience to simulate the Scrum Master role. The goal is to lead a simple project using agile methodology from planning to delivery.
+This Solo Project was designed to showcase my experience as a Scrum Master by leading a simple project through the full Agile lifecycle—from planning to delivery.
 
 The product is a fictional landing page for a wellness brand focused on essential oils and aromatherapy. It includes educational content, basic branding, and a contact feature.
 
@@ -13,19 +13,17 @@ The product is a fictional landing page for a wellness brand focused on essentia
 - Stand-up notes, velocity tracking, and user stories
 - Basic wireframe plan (simulated)
 
-## How to Run the Project
+## About the Project
 This is not a coded application, but an agile simulation.
 You can:
 - Read all documentation via the [Confluence Space: Aromatherapy - Landing Page](https://thaisinatomi.atlassian.net/wiki/spaces/sol/overview)
-- Explore the backlog and board in shared [Jira Project link](https://thaisinatomi.atlassian.net/jira/software/projects/SOL/boards/68/backlog?atlOrigin=eyJpIjoiZjYzOTMzZThkOTcyNGUwZTkwYmNjN2VjMTdlZDMwZjgiLCJwIjoiaiJ9) To gain full access, please provide a valid email address that has access to Jira.
-- Follow the README to understand the Scrum flow applied
+- Explore the backlog and board in shared [Jira Project link](https://thaisinatomi.atlassian.net/jira/software/projects/SOL/boards/68/backlog?atlOrigin=eyJpIjoiZjYzOTMzZThkOTcyNGUwZTkwYmNjN2VjMTdlZDMwZjgiLCJwIjoiaiJ9)
+- To gain full access, please provide a valid email address that has access to Jira.
 
-## Dependencies
+## Tools
 - Jira Software (Scrum board and backlog)
 - Confluence (Documentation)
 - GitHub (for project sharing)
-
----
 
 ## Contact
 This project was built by Thais Aya as a Solo Scrum Master simulation.  
