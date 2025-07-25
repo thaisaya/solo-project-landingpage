@@ -29,4 +29,4 @@ You can:
 
 ## Contact
 This project was built by Thais Aya as a Solo Scrum Master simulation.  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/seu-perfil).
+Feel free to connect via [LinkedIn /thaisaya](https://www.linkedin.com/in/thaisaya/).
