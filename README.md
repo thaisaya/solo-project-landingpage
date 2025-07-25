@@ -1,7 +1,7 @@
 # Aromatherapy – Landing Page
 
 ## Overview
-This Solo Project was designed to showcase my experience as a Scrum Master by leading a simple project through the full Agile lifecycle—from planning to delivery.
+This Solo Project was designed to showcase my experience as a Scrum Master by leading a simple project through the full Agile lifecycle - from planning to delivery.
 
 The product is a fictional landing page for a wellness brand focused on essential oils and aromatherapy. It includes educational content, basic branding, and a contact feature.
 
