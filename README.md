@@ -9,8 +9,8 @@ The product is a fictional landing page for a wellness brand focused on essentia
 - Agile workflow simulated with Scrum
 - Full backlog organized in Jira (Scrum template)
 - Sprint planning, reviews, and retrospectives documented in Confluence
-- Simulated team (Product Designer, Frontend Dev, Content Writer)
-- Stand-up notes, velocity tracking, and user stories
+- Simulated team (Product Owner, UI/UX Designer, Full Stack Dev, QA Tester, DevOps)
+- Stand-up notes, velocity tracking, and user stories under tasks
 - Basic wireframe plan (simulated)
 
 ## About the Project
