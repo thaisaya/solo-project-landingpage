@@ -17,7 +17,7 @@ The product is a fictional landing page for a wellness brand focused on essentia
 This is not a coded application, but an agile simulation.
 You can:
 - Read all documentation via the [Confluence Space: Aromatherapy - Landing Page](https://thaisinatomi.atlassian.net/wiki/spaces/sol/overview)
-- Explore the backlog and board in shared [Jira Project link](https://thaisinatomi.atlassian.net/jira/software/projects/SOL/boards/68/backlog?atlOrigin=eyJpIjoiZjYzOTMzZThkOTcyNGUwZTkwYmNjN2VjMTdlZDMwZjgiLCJwIjoiaiJ9)
+- Explore the backlog and board in shared [Jira Project link](https://thaisinatomi.atlassian.net/jira/software/projects/SOL/boards/68/backlog?atlOrigin=eyJpIjoiZjYzOTMzZThkOTcyNGUwZTkwYmNjN2VjMTdlZDMwZjgiLCJwIjoiaiJ9) To gain full access, please provide a valid email address that has access to Jira.
 - Follow the README to understand the Scrum flow applied
 
 ## Dependencies
